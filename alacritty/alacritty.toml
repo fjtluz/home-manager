@@ -1,0 +1,5 @@
+[terminal]
+shell = "/nix/store/lnqvjambizndir3759ny2zgi4idfx789-user-environment/bin/fish"
+
+[font]
+normal = { family = "GoMonoNerdFont", style = "Regular" }
